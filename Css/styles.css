@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+#HomePageHeader {
+    display: flex;
+    background-color: rgb(181, 223, 255);
+    border: 1px solid black;
+}
